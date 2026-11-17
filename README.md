@@ -1,4 +1,4 @@
-# Real-Time Face Tracking Camera
+# Real Time Face Tracking Camera
 
 A camera that follows a face in real time. A Python program uses OpenCV to detect a face in the video feed and sends movement commands over a serial connection (PySerial) to a servo-mounted camera, which keeps the face centered in the frame.
 
@@ -55,5 +55,4 @@ pip install opencv-python pyserial
 
 ## Author
 
-**Omer Shtanger**, Electrical Engineering student at Tel Aviv University
-[LinkedIn](https://linkedin.com/in/omer-shtanger) · [GitHub](https://github.com/omershtanger)
+**Omer Shtanger**
